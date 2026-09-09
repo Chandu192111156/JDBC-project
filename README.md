@@ -1,1 +1,1 @@
-# JDBC-project
+# JDBC-project EmployeeManagementSystem
